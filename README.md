@@ -34,7 +34,7 @@ Pages:
 * Home:<br>
   * See all your posts and posts of all users that you are following
   * Async loading of the posts
-  * Likeing posts of other users
+  * Liking posts of other users
   * Post commetns to other users
   * In the upper left corner is the camera button(now it looks like paper plane) it opens custom camera(only one device) with 
   manual zoom slider, manual brightness slider, and manual focus slider.
